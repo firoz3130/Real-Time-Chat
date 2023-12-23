@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/firoz3130/Real-Time-Chat/issues"
   },
-  "homepage": "https://github.com/firoz3130/Real-Time-Chat#readme"
+  "homepage": "https://github.com/firoz3130/Real-Time-Chat#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {
+    "@types/websocket": "^1.0.10"
+  }
 }
